@@ -106,6 +106,7 @@
         $('#customersTable').DataTable();
     });
 </script>
+
 @stop
 @section('css')
     {{-- Add extra stylesheets --}}
